@@ -1,1 +1,1 @@
-# STA399H5_ROP_Summer2026
+Welcome to STA399H5. I will share material and information here.
